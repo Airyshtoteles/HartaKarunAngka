@@ -8,8 +8,8 @@ null,
 {"id":6,"expanded":false,"name":"Mansion","order":7,"parentId":2,"scrollX":912,"scrollY":1523.5,"quick":false},
 {"id":7,"expanded":false,"name":"Test","order":9,"parentId":2,"scrollX":619,"scrollY":371.5,"quick":false},
 {"id":8,"expanded":false,"name":"Perpustakaan","order":8,"parentId":2,"scrollX":619,"scrollY":467.5,"quick":false},
-{"id":9,"expanded":true,"name":"Abandoned House","order":10,"parentId":2,"scrollX":619,"scrollY":419.5,"quick":false},
-{"id":10,"expanded":false,"name":"Castle 2F","order":11,"parentId":9,"scrollX":619,"scrollY":584.5,"quick":false},
+{"id":9,"expanded":false,"name":"Abandoned House","order":10,"parentId":2,"scrollX":619,"scrollY":419.5,"quick":false},
+{"id":10,"expanded":false,"name":"Castle 2F","order":11,"parentId":9,"scrollX":619,"scrollY":404.5,"quick":false},
 {"id":11,"expanded":false,"name":"School Classroom","order":6,"parentId":5,"scrollX":627,"scrollY":368.5,"quick":false},
 {"id":12,"expanded":false,"name":"Penutup","order":12,"parentId":1,"scrollX":619,"scrollY":348.5,"quick":false}
 ]
