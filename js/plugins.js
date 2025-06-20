@@ -3,5 +3,6 @@
 var $plugins =
 [
 {"name":"LogoTitleScreen","status":true,"description":"Menampilkan logo UNIKU & DGMC kecil di pojok kanan atas, sejajar horizontal - by ChatGPT","parameters":{}},
-{"name":"NameTagOverEvent","status":true,"description":"Menampilkan nama bangunan di atas event saat player mendekat (dari arah manapun).","parameters":{}}
+{"name":"NameTagOverEvent","status":true,"description":"Menampilkan nama bangunan di atas event saat player mendekat (dari arah manapun).","parameters":{}},
+{"name":"DynamicPlayerName","status":true,"description":"Dynamic Player Name v2.0.0","parameters":{"defaultName":"","maxNameLength":"12","showWelcome":"true","welcomeText":"\"Selamat datang di dunia Arithmora!\\nSiapa namamu, petualang muda?\"","confirmName":"true *"}}
 ];

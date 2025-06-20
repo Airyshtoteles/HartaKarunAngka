@@ -1,0 +1,42 @@
+[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+"events": [
+  {
+    "id": 1,
+    "name": "surat misterius",
+    "note": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorId": 1,
+          "actorValid": false,
+          "itemId": 1,
+          "itemValid": false,
+          "selfSwitchCh": "A",
+          "selfSwitchValid": false,
+          "switch1Id": 1,
+          "switch1Valid": false,
+          "switch2Id": 1,
+          "switch2Valid": false,
+          "variableId": 1,
+          "variableValid": false,
+          "variableValue": 0
+        },
+        "directionFix": false,
+        "image": {
+          "tileId": 328,
+          "characterName": "",
+          "characterIndex": 0,
+          "direction": 2,
+          "pattern": 0
+        },
+        "list": [
+          {
+            "code": 101,
+            "indent": 0,
+            "parameters": ["", 0, 0, 2, ""]
+          }
+        ]
+      }
+    ]
+  }
+]

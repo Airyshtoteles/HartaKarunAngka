@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "surat misterius",
+      "note": "",
+      "pages": [
+        {
+          "conditions": [
+            // ...existing code...
+          ]
+        }
+        // ...existing code...
+      ]
+    }
+    // ...existing code...
+  ]
+}
