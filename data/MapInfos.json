@@ -1,16 +1,15 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":619,"scrollY":340.5},
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":619,"scrollY":348.5},
 {"id":2,"expanded":true,"name":"Normal Town","order":2,"parentId":1,"scrollX":650.4,"scrollY":499.79999999999995,"quick":false},
-{"id":3,"expanded":false,"name":"House 1","order":3,"parentId":2,"scrollX":650.4,"scrollY":390.59999999999997,"quick":false},
-{"id":4,"expanded":false,"name":"School Classroom","order":4,"parentId":2,"scrollX":640.8,"scrollY":381,"quick":false},
-{"id":5,"expanded":true,"name":"School Hallway","order":5,"parentId":2,"scrollX":640.8,"scrollY":381,"quick":false},
-{"id":6,"expanded":false,"name":"Mansion","order":7,"parentId":2,"scrollX":912,"scrollY":1109.3999999999999,"quick":false},
-{"id":7,"expanded":false,"name":"Test","order":9,"parentId":2,"scrollX":640.8,"scrollY":381,"quick":false},
-{"id":8,"expanded":false,"name":"Perpustakaan","order":8,"parentId":2,"scrollX":640.8,"scrollY":425.4,"quick":false},
+{"id":3,"expanded":false,"name":"House 1","order":3,"parentId":2,"scrollX":619,"scrollY":390.5,"quick":false},
+{"id":4,"expanded":false,"name":"School Classroom","order":4,"parentId":2,"scrollX":619,"scrollY":381.5,"quick":false},
+{"id":5,"expanded":true,"name":"School Hallway","order":5,"parentId":2,"scrollX":641,"scrollY":348.5,"quick":false},
+{"id":6,"expanded":false,"name":"Mansion","order":7,"parentId":2,"scrollX":912,"scrollY":981.5,"quick":false},
+{"id":7,"expanded":false,"name":"Test","order":9,"parentId":2,"scrollX":619,"scrollY":371.5,"quick":false},
+{"id":8,"expanded":false,"name":"Perpustakaan","order":8,"parentId":2,"scrollX":619,"scrollY":425.5,"quick":false},
 {"id":9,"expanded":true,"name":"Abandoned House","order":10,"parentId":2,"scrollX":619,"scrollY":419.5,"quick":false},
 {"id":10,"expanded":false,"name":"Castle 2F","order":11,"parentId":9,"scrollX":619,"scrollY":404.5,"quick":false},
-{"id":11,"expanded":false,"name":"School Classroom","order":6,"parentId":5,"scrollX":640.8,"scrollY":381,"quick":false},
-{"id":12,"expanded":false,"name":"Penutup","order":13,"parentId":1,"scrollX":619,"scrollY":340.5,"quick":false},
-{"id":13,"expanded":false,"name":"School","order":12,"parentId":2,"scrollX":627,"scrollY":448.5,"quick":false}
+{"id":11,"expanded":false,"name":"School Classroom","order":6,"parentId":5,"scrollX":619,"scrollY":381.5,"quick":false},
+{"id":12,"expanded":false,"name":"Penutup","order":12,"parentId":1,"scrollX":619,"scrollY":348.5,"quick":false}
 ]
