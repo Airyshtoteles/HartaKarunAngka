@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb --disable-devtools",
     "window": {
         "title": "Harta Karun Angka",
-        "width": 816,
-        "height": 624,
+        "width": 1280,
+        "height": 720,
         "position": "center",
         "icon": "icon/icon.png"
     }
