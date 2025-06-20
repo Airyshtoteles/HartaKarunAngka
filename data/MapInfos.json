@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":619,"scrollY":348.5},
-{"id":2,"expanded":true,"name":"Normal Town","order":2,"parentId":1,"scrollX":650.4,"scrollY":499.79999999999995,"quick":false},
+{"id":2,"expanded":true,"name":"Normal Town","order":2,"parentId":1,"scrollX":650,"scrollY":499.5,"quick":false},
 {"id":3,"expanded":false,"name":"House 1","order":3,"parentId":2,"scrollX":619,"scrollY":390.5,"quick":false},
 {"id":4,"expanded":false,"name":"School Classroom","order":4,"parentId":2,"scrollX":619,"scrollY":381.5,"quick":false},
 {"id":5,"expanded":true,"name":"School Hallway","order":5,"parentId":2,"scrollX":641,"scrollY":348.5,"quick":false},
